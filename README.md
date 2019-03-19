@@ -1,6 +1,6 @@
 # Jupyter Amsterdam
 
-![meetup logo](static/meetup_small.png)
+![meetup logo](static/meetup_small.png | width=100)
 
 Here you find the materials we cover in [Jupyter Amsterdam meetups](https://www.meetup.com/Jupyter-Amsterdam/).
 
