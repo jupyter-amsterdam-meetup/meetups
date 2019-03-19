@@ -1,6 +1,6 @@
 # Jupyter Amsterdam
 
-![meetup logo](https://raw.githubusercontent.com/jupyter-amsterdam-meetup/meetups/master/static/meetup_small.png | width=100)
+<img src="[https://cloud.githubusercontent.com/assets/yourgif.gif](https://raw.githubusercontent.com/jupyter-amsterdam-meetup/meetups/master/static/meetup_small.png)" width="200" >
 
 Here you find the materials we cover in [Jupyter Amsterdam meetups](https://www.meetup.com/Jupyter-Amsterdam/).
 
