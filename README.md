@@ -1,5 +1,7 @@
 # Jupyter Amsterdam
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-amsterdam-meetup/meetups/master)
+
 <img src="https://raw.githubusercontent.com/jupyter-amsterdam-meetup/meetups/master/static/meetup_small.png" width="200" >
 
 Here you find the materials we cover in meetups at [Jupyter Amsterdam](https://www.meetup.com/Jupyter-Amsterdam/).
