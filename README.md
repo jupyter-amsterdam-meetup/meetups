@@ -14,4 +14,4 @@ Here you find the materials we cover in meetups at [Jupyter Amsterdam](https://w
 ## 2019-02-14
 
 - Amir Sciammas ([@amirsciammas](https://github.com/amirsciammas)) on "Project Jupyter" - [repo](https://github.com/amirsciammas/JupyterAmsterdamMeetup) & [slides](https://github.com/amirsciammas/JupyterAmsterdamMeetup/raw/master/Amir%20Sciammas%20-%20Meetup%20Feb%2014%202019.pdf) (4MB)
-- Rafael Pierre ([@rafaelpierre](https://github.com/rafaelpierre)) on ["Location Intelligence"](https://github.com/rafaelpierre/JupyterAMS)
+- Rafael Pierre ([@rafaelpierre](https://github.com/rafaelpierre)) on "Location Intelligence" - [repo](https://github.com/rafaelpierre/JupyterAMS) & [slides](https://github.com/rafaelpierre/JupyterAMS/raw/master/Data%20Science%20for%20Finding%20Apartment%20AMS.pdf) (3.9MB)
