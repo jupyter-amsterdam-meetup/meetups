@@ -6,6 +6,11 @@
 
 Here you find the materials we cover in meetups at [Jupyter Amsterdam](https://www.meetup.com/Jupyter-Amsterdam/).
 
+## 2019-06-13
+
+- Alessandro Spinuso on " Integrating solutions for Data-Intensive and Reproducible Science" - [slides](https://github.com/jupyter-amsterdam-meetup/meetups/raw/master/2019-06-13/AlessandroMeetupSurfJupyter.pdf) (13.7 MB)
+- Machiel Jansen on "Setup Jupyter with Spark" - [slides](https://github.com/jupyter-amsterdam-meetup/meetups/raw/master/2019-06-13/Meetup1306SURF.pdf) (2.7 MB)
+
 ## 2019-04-04
 
 - Amir Sciammas ([@amirsciammas](https://github.com/amirsciammas)) on "Introduction to JupyterHub"
